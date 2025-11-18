@@ -1,0 +1,5 @@
+  [bc]
+   type= HeatTransferFromSpecifiedTemperature1Phase
+   T_wall = 400
+   flow_channel = core1 
+  []
